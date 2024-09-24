@@ -1,0 +1,33 @@
+body
+{
+     background-image:url(KTM-RC-390.jpg);
+     color: white;
+     font-style:normal;
+     background-size:100%100%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+}
+p{
+    font-size: 25px;
+    word-spacing: 7px;
+    line-height: 30px;
+    text-indent: 100px;
+    text-align:justify ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+text-decoration: underline;
+    text-transform: uppercase;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    font-style: italic;
+}
+button{
+    align-content: 300px left;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    background-color: black;
+    
+}

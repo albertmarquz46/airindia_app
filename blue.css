@@ -1,0 +1,44 @@
+ul{
+  list-style-type: none;
+  text-align: right;  
+
+}
+li{
+    display: inline-block;
+    padding:0px 25px 0px;
+    align-content: left;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+a:active{
+    color: aliceblue;
+}
+a:visited{
+
+    color: bisque;
+}
+button{
+    background-color: rgb(216, 72, 72);
+    color: azure;
+    padding:15px;
+    border-radius: 15px;
+}
+.nav{
+    background-color: rgb(25, 44, 7);
+    height: 50px;
+    border:2px solid rgb(203, 200, 200);
+    border-radius: 10px;
+}
+iframe{
+    border:2px solid black;
+    height:500px;
+}
+body{
+    text-align: center;
+}
